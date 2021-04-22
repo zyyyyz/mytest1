@@ -1,3 +1,3 @@
-module mytest1
+module github.com/zyyyyz/mytest1
 
 go 1.14

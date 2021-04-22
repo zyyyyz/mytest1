@@ -2,7 +2,7 @@ package mytest1_test
 
 import (
 	"testing"
-	tool "mytest1"
+	tool "github.com/zyyyyz/mytest1"
 )
 
 
