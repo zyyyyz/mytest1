@@ -1,8 +1,8 @@
-package git_te2_test
+package mytest1_test
 
 import (
 	"testing"
-	tool "git_te2"
+	tool "mytest1"
 )
 
 

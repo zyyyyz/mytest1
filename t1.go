@@ -1,4 +1,4 @@
-package git_te2
+package mytest1
 
 import (
 	"fmt"

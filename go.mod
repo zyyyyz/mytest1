@@ -1,3 +1,3 @@
-module git_te2
+module mytest1
 
 go 1.14
